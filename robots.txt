@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hill-view-cottage.vercel.app/sitemap.xml

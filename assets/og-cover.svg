@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4f3540"/>
+      <stop offset="0.5" stop-color="#9c4f36"/>
+      <stop offset="1" stop-color="#e09a54"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="760" cy="300" r="90" fill="#ffe3a8" opacity="0.9"/>
+  <path d="M0 470 200 330 420 468 640 352 860 470 1080 336 1200 400 1200 630 0 630Z" fill="#4c4a38"/>
+  <path d="M0 560 260 400 540 560 820 420 1100 560 1200 500 1200 630 0 630Z" fill="#26392c"/>
+  <g fill="#1d2c22">
+    <rect x="842" y="366" width="16" height="26"/>
+    <rect x="836" y="342" width="28" height="24"/>
+    <rect x="830" y="314" width="40" height="28"/>
+    <rect x="820" y="284" width="60" height="30"/>
+  </g>
+  <g transform="translate(0,0)">
+    <text x="70" y="585" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#fffdf8" font-weight="bold" letter-spacing="1">Hill View Cottage</text>
+    <text x="72" y="616" font-family="Arial, sans-serif" font-size="20" fill="#f0d9a8" letter-spacing="4">HVC · TIRUMALA · TIRUPATI</text>
+  </g>
+</svg>

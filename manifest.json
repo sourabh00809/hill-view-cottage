@@ -1,0 +1,10 @@
+{
+  "name": "Hill View Cottage (HVC) — Tirumala",
+  "short_name": "HVC",
+  "description": "Cottage, hotel & lodge stay on Bhanumati Road, Garudadri Nagar, Tirumala. 4.2★ from 4,465 reviews.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f0e6",
+  "theme_color": "#3c2b24",
+  "icons": [{ "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
