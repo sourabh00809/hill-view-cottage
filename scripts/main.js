@@ -47,7 +47,7 @@
       if(!name || !phone || !checkin){ if(status) status.textContent="Please fill name, phone and check-in date."; return; }
       if(!/^\+?[0-9\s-]{8,15}$/.test(phone)){ if(status) status.textContent="Enter a valid phone number."; return; }
       var text="Hi HVC Team, enquiry for Hill View Cottage:\nName: "+name+"\nPhone: "+phone+"\nCheck-in: "+checkin+"\nGuests: "+guests+"\nMessage: "+(msg||"-");
-      var url="https://wa.me/919876543210?text="+encodeURIComponent(text);
+      var url="https://wa.me/919079972821?text="+encodeURIComponent(text);
       if(status) status.textContent="Opening WhatsApp…";
       window.open(url,"_blank","noopener");
     });
